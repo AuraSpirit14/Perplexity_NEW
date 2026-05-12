@@ -1,4 +1,3 @@
-# Perplexity_NEW
 $ cat > /home/user/github_profile_README.md << 'ENDOFFILE'
 # 💀 AURA SPIRIT — Red Team Operator
 
