@@ -1,4 +1,3 @@
-$ cat > /home/user/github_profile_README.md << 'ENDOFFILE'
 # 💀 AURA SPIRIT — Red Team Operator
 
 <div align="center">
@@ -114,6 +113,3 @@ $ cat /etc/profile
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 </div>
-ENDOFFILE
-echo "Done!"
-Done!
